@@ -31,6 +31,13 @@ phrases = {
         ['please-wait'] = 'Please wait...',
         ['device-updated'] = 'Sensor data updated',
     },
+    fr = {
+        ['name'] = 'SMA PV Energy sensor',
+        ['refresh'] = 'Rafraichir',
+        ['last-update'] = 'Dernière mise à jour à %s',
+        ['please-wait'] = 'Merci de patienter...',
+        ['device-updated'] = 'Données mises à jour',
+    },
     de = {
         ['name'] = 'SMA PV Energie sensor',
         ['refresh'] = 'Aktualisieren',
